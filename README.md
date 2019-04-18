@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/21776579/own-c-network-protocol-how-to-defin
 
 
 https://www.reddit.com/r/cpp/comments/5tcnmh/implementing_communication_protocols_in_c_for/?depth=1
+
+
+https://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/
