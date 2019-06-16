@@ -16,3 +16,7 @@ https://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/
 http://pistache.io/guide/
 
 http://beej.us/guide/bgnet/html/multi/index.html
+
+https://github.com/osmangoninahid/cpp-rest-api
+
+https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
