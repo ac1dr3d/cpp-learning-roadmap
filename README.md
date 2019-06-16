@@ -20,3 +20,5 @@ http://beej.us/guide/bgnet/html/multi/index.html
 https://github.com/osmangoninahid/cpp-rest-api
 
 https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
+
+https://devops.com/devops-challenges-c-c-projects/
