@@ -21,4 +21,6 @@ https://github.com/osmangoninahid/cpp-rest-api
 
 https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
 
+https://github.com/ac1dr3d/micro-service
+
 https://devops.com/devops-challenges-c-c-projects/
