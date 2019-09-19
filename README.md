@@ -24,3 +24,9 @@ https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499f
 https://github.com/ac1dr3d/micro-service
 
 https://devops.com/devops-challenges-c-c-projects/
+
+
+
+https://www.youtube.com/watch?v=u_ij0YNkFUs
+
+https://www.youtube.com/watch?v=xi2lTaC5p0I
