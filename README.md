@@ -32,3 +32,5 @@ https://www.youtube.com/watch?v=u_ij0YNkFUs
 https://www.youtube.com/watch?v=xi2lTaC5p0I
 
 https://www.embedded.com/efficiently-coding-communications-protocols-in-c/
+
+https://stackoverflow.com/questions/4899542/implementation-communication-protocols-in-c-c
