@@ -36,3 +36,17 @@ https://www.embedded.com/efficiently-coding-communications-protocols-in-c/
 https://stackoverflow.com/questions/4899542/implementation-communication-protocols-in-c-c
 
 https://nssm.cc/
+
+1) Simpson, W. ThePoint-to-Point Protocol(PPP) RFC-1661. Daydreamer Computer SystemsConsulting Services, July 1994.
+
+2) Gamma, E. Helm, R.Johnson, R. and Vlissides, J. Design Patterns; Elements of ReusableObject-Oriented Software. Addison-Wesley Publishing Company, Reading,MA 1994.
+
+3) Lippman, S. Inside theC++ Object Model. Addison-Wesley Publishing Company, Reading, MA 1996
+
+4) Meyers, S. Effective C++;55 Specific Ways to Improve Your Programs and Designs, Third Edition. .Addison-Wesley Publishing Company, Reading, MA 2005.
+
+5) Meyers, S. More EffectiveC++; 35New Ways to Improve Your Programs and Designs, Third Edition. .Addison-Wesley Publishing Company, Reading, MA 1996.
+
+6) Jacobson, V. andFelderman, B. Speeding Up Networking. Linux.conf.au 2006, Dunedin, NZ
+
+7) Dokumentov, A. Lock-freeInterprocess Communication. Dr. Dobbs Portal, June 15, 2006.
