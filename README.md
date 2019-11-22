@@ -30,3 +30,5 @@ https://devops.com/devops-challenges-c-c-projects/
 https://www.youtube.com/watch?v=u_ij0YNkFUs
 
 https://www.youtube.com/watch?v=xi2lTaC5p0I
+
+https://www.embedded.com/efficiently-coding-communications-protocols-in-c/
